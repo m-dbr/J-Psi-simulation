@@ -7,7 +7,7 @@ ______________________________________________________________________
 
 #### To run this program:
 
-compile with Makefile
+compile with Makefile **only if you have ROOT framework**
 
 ____________________________________________________________________
 
